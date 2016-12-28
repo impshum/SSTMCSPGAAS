@@ -5,7 +5,7 @@ echo "╔═╗╔═╗╔╦╗╔╦╗╔═╗╔═╗╔═╗╔═╗�
 echo "╚═╗╚═╗ ║ ║║║║  ╚═╗╠═╝║ ╦╠═╣╠═╣╚═╗"
 echo "╚═╝╚═╝ ╩ ╩ ╩╚═╝╚═╝╩  ╚═╝╩ ╩╩ ╩╚═╝"
 echo "Super Simple Tiny Minimal Coming Soon Page Generator As A Service"
-echo "bash <(curl -s http://localhost/~impshum/pagecreate/cs.sh)"
+echo "bash <(curl -s http://bit.ly/sstmcspgaas)"
 echo "Let's begin..."
 read -p '<file>.html (eg. index): ' f
 read -p 'Page title (meta): ' t
