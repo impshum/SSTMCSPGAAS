@@ -1,6 +1,7 @@
 # SSTMCSPGAAS - Stupidly Simple Tiny Minimal Coming Soon Page Generator As A Service
 
 > "Create a website!" - My brain on bash.
+
 ## About
 
 CSPAAS is a coming soon page generator you can use wherever/whenever/however.
