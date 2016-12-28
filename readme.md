@@ -4,8 +4,7 @@
 
 ## About
 
-CSPAAS is a coming soon page generator you can use wherever/whenever/however.
-The whole thing weighs in at 7kb and produces an html file of 7-8kb. Complete with countdown timer and social media links.
+CSPAAS is a coming soon page generator that weighs in at 7kb and produces an html file of 7-8kb complete with simple meta tags, space for title and message, a countdown timer and social media links.
 
 ##### What's good about it then?
 
@@ -66,4 +65,5 @@ I'll get round to this. I think it's called doskey, registry edit and a .bat fil
 
 ## Contributing
 
-Sure. Go for it. Get your fork out!
+Suggestions are more than welcome. Create an issue up top and label it "Feature Request".
+Or you can get your fork out and dig in.
