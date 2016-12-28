@@ -6,9 +6,11 @@
 
 CSPAAS is a coming soon page generator that weighs in at 7kb and produces an html file of 7-8kb complete with simple meta tags, space for title and message, a countdown timer and social media links.
 
+![alt text](https://raw.githubusercontent.com/impshum/SSTMCSPGAAS/examples/screenshot.jpg "The end result")
+
 ##### What's good about it then?
 
-* Way too easy to use.
+* Ridiculously easy to use.
 * No jQuery.
 * Blazing fast.
 * HTML5 valid.
