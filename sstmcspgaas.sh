@@ -4,7 +4,7 @@ normal=$(tput sgr0)
 echo "╔═╗╔═╗╔╦╗╔╦╗╔═╗╔═╗╔═╗╔═╗╔═╗╔═╗╔═╗"
 echo "╚═╗╚═╗ ║ ║║║║  ╚═╗╠═╝║ ╦╠═╣╠═╣╚═╗"
 echo "╚═╝╚═╝ ╩ ╩ ╩╚═╝╚═╝╩  ╚═╝╩ ╩╩ ╩╚═╝"
-echo "Super Simple Tiny Minimal Coming Soon Page Generator As A Service"
+echo "Stupidly Simple Tiny Minimal Coming Soon Page Generator As A Service"
 echo "Quickly create a page anytime/anywhere: bash <(curl -s -L https://git.io/sstmcspgaas)"
 echo "Let's begin..."
 read -p '<file>.html (eg. index): ' f
