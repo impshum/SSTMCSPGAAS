@@ -8,9 +8,12 @@ CSPAAS is a coming soon page generator that weighs in at 7kb and produces an htm
 
 ![alt text](https://raw.githubusercontent.com/impshum/SSTMCSPGAAS/examples/screenshot.jpg "The end result")
 
+![alt text](https://raw.githubusercontent.com/impshum/SSTMCSPGAAS/examples/example.gif "Here we go")
+
 ##### What's good about it then?
 
 * Ridiculously easy to use.
+* Less than a minute average.
 * No jQuery.
 * Blazing fast.
 * HTML5 valid.
@@ -31,7 +34,7 @@ bash <(curl -s -L https://git.io/sstmcspgaas)
 
 ## Recommended Usage
 
-Just to make it even more stupidly easy we'll create an alias so all you'll have to type is 3 letters to initiate the script. Enter these one by one. Feel free to edit your alias to your needs or just stick with the mighty "csp".
+Just to make it even more stupidly easy we'll create an alias so all you'll have to type is 3 letters to initiate the script. Feel free to edit your alias to your needs or just stick with the mighty "csp".
 
 ### OSX
 
