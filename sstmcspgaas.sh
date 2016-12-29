@@ -5,7 +5,6 @@ echo "╔═╗╔═╗╔╦╗╔╦╗╔═╗╔═╗╔═╗╔═╗�
 echo "╚═╗╚═╗ ║ ║║║║  ╚═╗╠═╝║ ╦╠═╣╠═╣╚═╗"
 echo "╚═╝╚═╝ ╩ ╩ ╩╚═╝╚═╝╩  ╚═╝╩ ╩╩ ╩╚═╝"
 echo "Stupidly Simple Tiny Minimal Coming Soon Page Generator As A Service"
-echo "Quickly create a page anytime/anywhere: bash <(curl -s -L https://git.io/sstmcspgaas)"
 echo "Let's begin..."
 read -p '<file>.html (eg. index): ' f
 read -p 'Page title (meta): ' t
