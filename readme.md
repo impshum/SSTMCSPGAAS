@@ -49,6 +49,10 @@ And refresh
 ```
 source ~/.bash_profile
 ```
+Then run it.
+```
+csp
+```
 
 ### Linux
 
@@ -62,6 +66,10 @@ alias csp='bash <(curl -s -L https://git.io/sstmcspgaas)'
 And refresh
 ```
 source ~/.bashrc
+```
+Then run it.
+```
+csp
 ```
 
 ### Windows
