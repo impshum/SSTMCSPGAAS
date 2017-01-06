@@ -20,7 +20,7 @@ read -r -p "Open page in a browser? [y/N] " response
 if [[ $response =~ ^[yY]([eE][sS])?$ ]]
 then
   open $f".html"
-  echo "Have a nice day!"
+  echo "Have a nice day! [meow]"
 else
-    echo "Have a nice day!"
+    echo "Have a nice day! [meow]"
 fi
