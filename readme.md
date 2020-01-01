@@ -80,3 +80,7 @@ I'll get round to this. I think it's called doskey, registry edit and a .bat fil
 
 Suggestions are more than welcome. Create an issue up top and label it "Feature Request".
 Or you can get your fork out and dig in.
+
+---
+
+BTC - 1AYSiE7mhR9XshtS4mU2rRoAGxN8wSo4tK
